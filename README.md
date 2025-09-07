@@ -26,7 +26,7 @@
   </a>
 
  <a href="https://x.com/_tusharmahale">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
   
   
